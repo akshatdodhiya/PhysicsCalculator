@@ -64,7 +64,7 @@ ASCII art created by Jeremy J. Olson.
 * The Coulomb's constant (k) is used in Coulomb's Law calculations.
 
 ## Welcome Screen
-[!welcome](https://github.com/akshatdodhiya/PhysicsCalculator/blob/main/Images/welcome.png)
+![welcome](https://github.com/akshatdodhiya/PhysicsCalculator/blob/main/Images/welcome.png)
 
 ## Usage Instructions
 1. Run the program.
